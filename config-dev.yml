@@ -1,9 +1,2 @@
-eureka:
-  client:
-    #开启服务发现，可以调用eureka server上注册的其他服务
-    fetch-registry: true
-    #注册服务
-    register-with-eureka: true
-    #客户端注册的服务地址
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka
+config:
+  info: httpshsdjfkjsgfhdgfhjdsfjdsgfeutyureytr15461315865461344688449gudsagfuyetfuejfgdsjhafhjdsabvhjad
